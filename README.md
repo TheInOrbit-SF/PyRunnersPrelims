@@ -35,7 +35,7 @@ ___
 
 **Example Interaction (CLI)**
 ___
-___
+```
 Welcome to Mini Banking App
 1. Create New Account
 2. Deposit
@@ -55,7 +55,7 @@ Deposit Successful! Current Balance: 5000
 Select Option: 4
 Enter Account Number: 101
 Current Balance: 5000
-___
+```
 ___
 **Skills Learned**
 
