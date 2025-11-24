@@ -1,8 +1,8 @@
-Mini Banking App
-
+**Mini Banking App**
+____
 A Python-based Mini Banking App that simulates basic banking operations for multiple users. Users can create new accounts, deposit, withdraw, and check balances. Perfect for learning file handling, classes, and user interaction in Python.
 
-Features
+**Features**
 
 Supports 5+ user accounts (or more)
 
@@ -18,13 +18,13 @@ Simple CLI or Tkinter GUI interface
 
 Persistent storage using files (optional)
 
-Requirements
+**Requirements**
 
 Python 3.8+
 
 Built-in packages: os, json, or pickle for data storage
 
-Usage
+**Usage**
 
 Clone the repository:
 
@@ -48,13 +48,13 @@ Check balance
 
 View transaction history
 
-Configuration
+**Configuration**
 
 Modify MAX_ACCOUNTS in config.py to increase the number of accounts
 
 Initial balance for new accounts can be set in config.py
 
-Example Interaction (CLI)
+**Example Interaction (CLI)**
 Welcome to Mini Banking App
 1. Create New Account
 2. Deposit
@@ -75,7 +75,7 @@ Select Option: 4
 Enter Account Number: 101
 Current Balance: 5000
 
-Skills Learned
+**Skills Learned**
 
 Object-Oriented Programming (Accounts as classes)
 
