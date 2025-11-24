@@ -1,5 +1,5 @@
-##Mini Banking App
-**____**
+#Mini Banking App
+____
 A Python-based Mini Banking App that simulates basic banking operations for multiple users. Users can create new accounts, deposit, withdraw, and check balances. Perfect for learning file handling, classes, and user interaction in Python.
 
 **Features**
